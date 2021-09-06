@@ -8,14 +8,12 @@ Ubuntu 18.04 & 20.04
 
 ## Features
 
-   Service & Port
-   - OpenSSH                 : 22
-   - SSH Websocket           : 80 [ON]
-   - SSL Websocket           : 443
-   - Dropbear                : 143, 432
-   - Squid Proxy             : 3128, 8080 (limit to IP Server)
-   - Badvpn                  : 7100 - 7300
-   - Nginx                   : 81
+ OpenSSH                 : 22
+ SSH Websocket           : 80 [ON]
+ SSL Websocket           : 443
+ Dropbear                : 143, 432
+ Squid Proxy             : 3128, 8080 (limit to IP Server)
+ Badvpn                  : 7100 - 7300
 
 Paste this link on your terminal.
 ```
