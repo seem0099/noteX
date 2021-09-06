@@ -1,14 +1,11 @@
 ## Supported
-
 Debian 9 & 10
-
 Ubuntu 18.04 & 20.04
 
-
+## Menu
 <div align=center><img width="60%" height="60%" src="https://user-images.githubusercontent.com/30442976/132091638-8195aa09-1b96-4d25-9663-dfa75dc4deb5.jpg"/>
 
-------------------------------------------------------------
-
+## Features
    > Service & Port
    - OpenSSH                 : 22
    - SSH Websocket           : 80 [ON]
@@ -17,7 +14,6 @@ Ubuntu 18.04 & 20.04
    - Squid Proxy             : 3128, 8080 (limit to IP Server)
    - Badvpn                  : 7100 - 7300
    - Nginx                   : 81
-------------------------------------------------------------
 
 Paste this link on your terminal.
 ```
