@@ -1,4 +1,4 @@
-<div align=center><img width="70%" height="70%" src="https://user-images.githubusercontent.com/30442976/132091638-8195aa09-1b96-4d25-9663-dfa75dc4deb5.jpg"/>
+<div align=center><img width="60%" height="60%" src="https://user-images.githubusercontent.com/30442976/132091638-8195aa09-1b96-4d25-9663-dfa75dc4deb5.jpg"/>
 
 
 #Supported
