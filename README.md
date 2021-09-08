@@ -1,3 +1,7 @@
+## Tested [Working Fine]
+Cloudsigma
+×Linux [error]
+
 ## Supported
 * Debian 9 & 10
 * Ubuntu 18.04 & 20.04
