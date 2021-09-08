@@ -1,7 +1,8 @@
 ## Tested [Working Fine]
 Cloudsigma
 
-×Linux [error]
+## Error on
+Linux
 
 ## Supported
 * Debian 9 & 10
