@@ -24,7 +24,7 @@ echo -e ""
 echo -e " [$green SYSTEM$w ]$white - will now attempt to reboot" | pv -qL 10
 sleep 1
 sek=11
-echo " Please wait bakaa"
+echo " Please wait bakaa.. "
 
 while ((sek--)); do
     printf " Rebooting in: %d" "$sek"
