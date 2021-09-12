@@ -13,7 +13,7 @@ echo -e " For upcoming updates visit my profile"
 echo -e " https://github.com/darkrenz    $w"
 sleep 3
 echo -e ""
-echo -e "$w [$red WARNING$w ] - [$red WARNING$w ] - [$red WARNING>
+echo -e "$w [$red WARNING$w ] - [$red WARNING$w ] - [$red WARNING$w $white]
 sleep 2
 echo -e "$yellow This script was distributed for free"
 echo -e " You can find it on github"
