@@ -18,7 +18,7 @@ sleep 2
 echo -e "$yellow This script was distributed for free"
 echo -e " You can find it on github"
 echo -e " If you bought it from someone else"
-echo -e " You've been scammed. Sorry for that $w"
+echo -e " You've been scammed, Sorry for that $w"
 sleep 4
 echo -e ""
 echo -e " [$green SYSTEM$w ]$white - will now attempt to reboot" >
