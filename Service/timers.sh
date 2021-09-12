@@ -18,13 +18,13 @@ sleep 2
 echo -e "$yellow This script was distributed for free"
 echo -e " You can find it on github"
 echo -e " If you bought it from someone else"
-echo -e " You have been scammed, Sorry for that $w"
+echo -e " You have been scammed Sorry for that $w"
 sleep 4
 echo -e ""
-echo -e " [$green SYSTEM$w ]$white - will now attempt to reboot" >
+echo -e " [$green SYSTEM$w ]$white - will now attempt to reboot"
 sleep 1
 sek=11
-echo " Please wait bakaa .."
+echo " Please wait bakaa"
 
 while ((sek--)); do
     printf " Rebooting in: %d" "$sek"
