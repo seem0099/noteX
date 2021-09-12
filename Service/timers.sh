@@ -13,15 +13,15 @@ echo -e " For upcoming updates visit my profile"
 echo -e " https://github.com/darkrenz    $w"
 sleep 3
 echo -e ""
-echo -e "$w [$red WARNING$w ] - [$red WARNING$w ] - [$red WARNING$w ]"
+echo -e "$w [$red WARNING$w ] - [$red WARNING$w ] - [$red WARNING$w ]" | pv -qL 10
 sleep 2
 echo -e "$yellow This script was distributed for free"
 echo -e " You can find it on github"
 echo -e " If you bought it from someone else"
-echo -e " You have been scammed Sorry for that $w"
+echo -e " You have been scammed. Sorry for that $w"
 sleep 4
 echo -e ""
-echo -e " [$green SYSTEM$w ]$white - will now attempt to reboot"
+echo -e " [$green SYSTEM$w ]$white - will now attempt to reboot" | pv -qL 10
 sleep 1
 sek=11
 echo " Please wait bakaa"
