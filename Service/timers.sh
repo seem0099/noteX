@@ -31,6 +31,6 @@ while ((sek--)); do
     sleep 1
     printf "\r%b" "\033[2K"
 done
-echo " System will now reboot!"
+echo " System will now reboot."
 sleep 2.5
 reboot
