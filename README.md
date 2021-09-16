@@ -1,6 +1,7 @@
 ## Service
 This Script is for free
-No Security.
+
+No Security (NO Permission IP)
 
 ## Tested [Working Fine]
 Cloudsigma
