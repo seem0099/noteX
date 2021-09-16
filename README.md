@@ -25,4 +25,4 @@ https://telegram.me/NoteX999
 ```
 
 ## Notice
-Since cloudsigma tightened their security for trial account i can't update script anymore, because i have no vps to use for now im relying on ssh site accounts
+Since cloudsigma tightened their security for trial account i cannot update script anymore, because i have no vps to use for now im relying on ssh site accounts
