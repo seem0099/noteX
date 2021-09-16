@@ -1,9 +1,6 @@
 ## Tested [Working Fine]
 Cloudsigma
 
-## Error on
-Linux
-
 ## Supported
 * Debian 9 & 10
 * Ubuntu 18.04 & 20.04
@@ -21,3 +18,11 @@ apt update && apt upgrade -y && apt install -y wget screen && wget -q https://ra
     Badvpn          : 7100 - 7300
 ## Menu
 <div align=center><img width="60%" height="60%" src="https://user-images.githubusercontent.com/30442976/132091638-8195aa09-1b96-4d25-9663-dfa75dc4deb5.jpg"/>
+
+## Telegram
+```
+https://telegram.me/NoteX999
+```
+
+## Notice
+Since cloudsigma tightened their security for trial account i can't update script anymore, because i have no vps to use for now im relying on ssh site accounts
