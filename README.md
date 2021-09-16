@@ -1,3 +1,7 @@
+## Service
+This Script is for free
+No Security.
+
 ## Tested [Working Fine]
 Cloudsigma
 
